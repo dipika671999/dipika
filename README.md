@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DIPIKA KARPE</h1>
 <h3 align="center">A passionate SQL developer from India</h3
-<p align="left"> <img src="https://komarev.com/ghp vc/?username=dipika671999&label=Profile%20views&color=0e75b6&style=flat" alt="dipika671999" /> </p>
+<img align="right" alt="coding" width="400" src=https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbll0ajZtRVB6X2tpU1UwSGc0U20za056QWpEQXxBQ3Jtc0tueFBpMTg1UDUtNTJZVW1XR3l0MzZuTS14NmNZb05aNnI4ZEczVFpNLXRxdnZDZVVOTWVxUlRTM213bVVPMXJnN0Myc2tJR1hqUjdQR3kxZ1ZfWjB5VUN3VEtBVXd1a0VXNFpVOXFPNlgxdmNUZ0tHMA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0>
 
 - 📫 How to reach me **dipika671999@gmail.com**
 
